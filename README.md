@@ -1,4 +1,4 @@
-This is demo project of streamming TV service.
+This is demo project of streamming TV service - SweetTv Ukraine.
 Project based on Playwright framework, with Typescript code
 For using:
 1) Clone project from github
